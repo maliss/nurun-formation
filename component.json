@@ -1,0 +1,10 @@
+{
+  "name": "nurunworkshop.tutoriel.formation.nurun5",
+  "version": "2.0.0",
+  "main": [
+    "./src/js/libs/libs.combo.js"
+  ],
+  "dependencies": {
+    "jquery": "~1.8.0"
+  }
+}
